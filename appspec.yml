@@ -2,9 +2,9 @@ version: 0.0
 os: linux
 files: 
   - source: /
-    destination: /home/ubuntu/restaurant
+    destination: /home/ubuntu/landlottery
 permissions:
-  - object: /home/ubuntu/restaurant
+  - object: /home/ubuntu/landlottery
     owner: ubuntu
     group: ubuntu
 hooks:
